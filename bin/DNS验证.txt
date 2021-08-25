@@ -1,0 +1,24 @@
+全都是   cname 记录 
+
+域名  gzzgtech.cn
+主机名
+_772DCCF94391595298CF494557C8C54B.gzzgtech.cn
+
+域名 *.gzeducard.com
+主机名
+_772DCCF94391595298CF494557C8C54B.gzeducard.com
+
+域名 *.gzeducard.com.cn
+主机名 
+_772DCCF94391595298CF494557C8C54B.gzeducard.com.cn
+
+域名  *.gzeducard.net
+主机名 
+_772DCCF94391595298CF494557C8C54B.gzeducard.net
+
+域名 *.gzzgtech.com
+主机名
+_772DCCF94391595298CF494557C8C54B.gzzgtech.com
+
+记录值都是一样的
+9A948F1E82041661B9B7065FE7990E59.45D9268F27B9E568F180DF621592DFF7.F5eyO550IgLK51Y38gGw.comodoca.com
